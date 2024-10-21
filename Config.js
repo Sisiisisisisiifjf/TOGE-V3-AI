@@ -2,11 +2,11 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "24105114159"],
-global.ownername = process.env.OWNER_NAME || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
+global.ownernumber = [ process.env.OWNER_NUMBER || "18292128529"],
+global.ownername = process.env.OWNER_NAME || "𓆩ITZ𓆪 ✇DOODLEY ",
 global.ytname = "YT: kenzo3146"
 global.socialm = "GitHub: toge012345"
-global.location = "Africa"
+global.location = "DOMINICAN REPUBLIC"
 
 global.botname = process.env.BOTNAME || "𝐓𝐎𝐆𝐄-𝐌𝐃-𝐕𝟑",//name of the bot
 
